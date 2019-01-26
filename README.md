@@ -12,6 +12,7 @@ TPOT merupakan <i>library</i> dalam bahasa pemrograman Python yang dapat digunak
 
 <p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-ml-pipeline.png"/></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-pipeline-example.png"/></p>
 <p align="center">
 <b>pip install tpot</b> atau <b>pip3 install tpot</b>
 </p>
