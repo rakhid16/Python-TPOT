@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-logo.jpg" height="250" width="300"/></p>
 
-TPOT merupakan <i>library</i> dalam bahasa pemrograman Python yang dapat digunakan untuk mengoptimalkan/menentukan algoritma pembelajaran mesin secara otomatis dengan menggunakan algoritma genetika. Sebelum membaca lebih lanjut ada baiknya kalian tahu jawaban dari "apa sih algoritma genetika itu?" sama "gimana sih cara kerja algoritma genetika?". Kalo nggak tahu jangan khawatir pilih aja salah satu link di bawah ini untuk mendapatkan jawaban dari kedua pertanyaan tadi :<br>
+TPOT adalah <i>library</i> dalam bahasa pemrograman Python yang dapat digunakan untuk mengoptimalkan/menentukan algoritma pembelajaran mesin secara otomatis dengan menggunakan algoritma genetika. Sebelum membaca lebih lanjut ada baiknya kalian tahu jawaban dari pertanyaan "apa sih algoritma genetika itu?" sama "gimana sih cara kerja algoritma genetika?". Kalo nggak tahu jangan khawatir pilih aja salah satu link di bawah ini untuk mendapatkan jawaban dari kedua pertanyaan tadi :<br>
 1. <a href="https://id.wikipedia.org/wiki/Algoritme_genetik">Penjelasan Pertama</a>
 2. <a href="https://github.com/Rakhid16/Python-GA-TPOT/blob/master/Algoritma%20Genetika.pdf">Penjelasan Kedua</a>
 3. <a href="https://www.youtube.com/watch?v=2mXcs-CNCB8">Penjelasan Ketiga</a>
@@ -16,7 +16,7 @@ Sesuai dengan apa yang saya jelaskan di awal, jadi TPOT ini bakal nyari algoritm
 Setelah TPOT selesai mencari algoritma pembelajaran mesin yang paling optimal, TPOT juga bisa mengekspor algoritma(model pembelajaran mesin) tersebut. Jadinya ntar tinggal dipake aja. Mantab jiwa(lagi) kan? Ehehehe.
 <p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-pipeline-example.png" height="300" width="600"/><br>Gambar 2 - Contoh dari <a href="https://id.wikipedia.org/wiki/Pipeline"><i>pipeline</i></a> yang dihasilkan oleh TPOT.</p>
 
-O iya TPOT ini dibuat di atas <i>library</i> <a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning">scikit-learn</a>(terutama yang <i>supervised learning</i>), jadi semua algoritma pembelajaran mesin yang dicari sama TPOT waktu kita pake TPOT itu semuanya dari scikit-learn. Begitoe... Cara masang TPOT cukup mudah. Ketikan saja salah satu dari dua perintah di bawah ini : 
+O iya TPOT ini dibuat di atas <i>library</i> <a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning">scikit-learn</a>(terutama yang <i>supervised learning</i>), jadi semua algoritma pembelajaran mesin yang dicari sama TPOT waktu kita pake TPOT itu semuanya dari scikit-learn. Begitoe... Cara masang TPOT cukup mudah. Ketikan saja salah satu dari dua perintah di bawah ini di dalam konsol kalain(terminal/cmd) : 
 
 <p align="center">
 <b>pip install tpot</b> atau <b>pip3 install tpot</b>
