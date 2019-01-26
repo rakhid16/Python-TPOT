@@ -10,9 +10,12 @@ TPOT merupakan <i>library</i> dalam bahasa pemrograman Python yang dapat digunak
 2. <a href="https://github.com/Rakhid16/Python-GA-TPOT/blob/master/Algoritma%20Genetika.pdf">Penjelasan Kedua</a>
 3. <a href="https://www.youtube.com/watch?v=2mXcs-CNCB8">Penjelasan Ketiga</a>
 
-<p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-ml-pipeline.png"/></p>
+Alat Pembelajaran Mesin Otomatis TPOT akan mengotomatisasi bagian paling membosankan dari pembelajaran mesin dengan menjelajahi ribuan saluran pipa secara cerdas untuk menemukan yang terbaik untuk data Anda.
+<p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-ml-pipeline.png"/>Bagan tahapan dari sebuah alur pembelajaran mesin.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-pipeline-example.png"/></p>
+Setelah TPOT selesai mencari (atau Anda bosan menunggu), TPOT menyediakan Anda dengan kode Python untuk pipa terbaik yang ditemukannya sehingga Anda dapat mengotak-atik pipa dari sana.
+<p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-pipeline-example.png"/>Contoh dari <i>pipeline</i> yang dihasilkan oleh TPOT</p>
+
 <p align="center">
 <b>pip install tpot</b> atau <b>pip3 install tpot</b>
 </p>
