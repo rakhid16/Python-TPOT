@@ -13,3 +13,7 @@ TPOT merupakan <i>library</i> dalam bahasa pemrograman Python yang dapat digunak
 <p align="center">
 <b>pip install tpot</b> atau <b>pip3 install tpot</b>
 </p>
+
+<p align="center">
+<b><a href="#">KLASIFIKASI</a></b> atau <b><a href="#">REGRESI/PREDIKSI</a></b>
+</p>
