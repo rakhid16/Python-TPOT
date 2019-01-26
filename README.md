@@ -27,6 +27,6 @@ Ketikan saja salah satu dari dua perintah di bawah ini di dalam konsol kalain(te
 Jika sudah terpasang pilih aja salah satu dari dua link di bawah ini(<i>atau dua-duanya juga boleh</i>) untuk mengetahui gimana sih caranya nggunain si TPOT ini.
 
 <a href="https://github.com/Rakhid16/Python-TPOT/blob/master/Klasifikasi.ipynb">Klasifikasi</a><br>
-<a href="#">Regresi/Prediksi</a>
+<a href="https://github.com/Rakhid16/Python-TPOT/blob/master/Regresi-Prediksi.ipynb">Regresi/Prediksi</a>
 
 <p align="center">Semoga bermanfaat! :)</p>
