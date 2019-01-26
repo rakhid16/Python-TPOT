@@ -16,14 +16,15 @@ Sesuai dengan apa yang saya jelaskan di awal, jadi TPOT ini bakal nyari algoritm
 Setelah TPOT selesai mencari algoritma pembelajaran mesin yang paling optimal, TPOT juga bisa mengekspor algoritma (model pembelajaran mesin) tersebut ke dalam baris-baris kode bahasa pemrograman Python. Jadinya ntar tinggal dipake aja. Mantab jiwa(lagi) kan? Ehehehe.
 <p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-pipeline-example.png" height="300" width="600"/><br>Gambar 2 - Contoh dari <a href="https://id.wikipedia.org/wiki/Pipeline"><i>pipeline</i></a> yang dihasilkan oleh TPOT.</p>
 
-O iya TPOT ini dibuat di atas <i>library</i> <a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning">scikit-learn</a>(i>supervised learning</i>), jadi semua algoritma pembelajaran mesin yang dicari sama TPOT waktu kita pake TPOT itu semuanya dari scikit-learn. Begitoe...<br>
-Cara pasang TPOT cukup mudah. Ketikan saja salah satu dari dua perintah di bawah ini di dalam konsol kalain(terminal/cmd) : 
+O iya TPOT ini dibuat di atas <i>library</i> <a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning">scikit-learn</a>(<i>supervised learning</i>), jadi semua algoritma pembelajaran mesin yang dicari sama TPOT waktu kita pake TPOT itu semuanya dari scikit-learn. Begitoe...<br>
+Cara pasang TPOT cukup mudah.<br>
+Ketikan saja salah satu dari dua perintah di bawah ini di dalam konsol kalain(terminal/cmd) : 
 
 <p align="center">
 <b>pip install tpot</b> atau <b>pip3 install tpot</b>
 </p>
 
-Jika sudah terpasang pilih aja salah satu dari dua link di bawah ini(atau dua-duanya juga boleh) untuk mengetahui bagaimana caranya menggunakan TPOT.
+Jika sudah terpasang pilih aja salah satu dari dua link di bawah ini(<i>atau dua-duanya juga boleh</i>) untuk mengetahui gimana sih caranya nggunain si TPOT ini.
 
 <a href="#">Klasifikasi</a><br>
 <a href="#">Regresi/Prediksi</a>
