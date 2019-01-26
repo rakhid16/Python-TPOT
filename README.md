@@ -10,6 +10,8 @@ TPOT merupakan <i>library</i> dalam bahasa pemrograman Python yang dapat digunak
 2. <a href="https://github.com/Rakhid16/Python-GA-TPOT/blob/master/Algoritma%20Genetika.pdf">Penjelasan Kedua</a>
 3. <a href="https://www.youtube.com/watch?v=2mXcs-CNCB8">Penjelasan Ketiga</a>
 
+<p align="center"><img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-ml-pipeline.png" height="250" width="300"/></p>
+
 <p align="center">
 <b>pip install tpot</b> atau <b>pip3 install tpot</b>
 </p>
