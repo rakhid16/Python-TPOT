@@ -5,13 +5,13 @@ from sklearn.naive_bayes import GaussianNB, MultinomialNB
 from sklearn.pipeline import make_pipeline, make_union
 from tpot.builtins import StackingEstimator
 
-# NOTE: Make sure that the outcome column is labeled 'target' in the data file
+# Pastikan kolom keluaran pada berkas data diberi nama "target".
 tpot_data = pd.read_csv('PATH/TO/DATA/FILE', sep='COLUMN_SEPARATOR', dtype=np.float64)
 features = tpot_data.drop('target', axis=1)
 training_features, testing_features, training_target, testing_target = \
             train_test_split(features, tpot_data['target'], random_state=None)
 
-# Average CV score on the training set was: 1.0
+# Rata-rata skor validasi silang pada data latih: 1.0
 exported_pipeline = make_pipeline(
     StackingEstimator(estimator=MultinomialNB(alpha=100.0, fit_prior=False)),
     GaussianNB()
